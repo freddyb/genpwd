@@ -1,0 +1,7 @@
+[package]
+name = "genpwd"
+version = "0.1.0"
+authors = ["Frederik B <freddy@flashpad>"]
+
+[dependencies]
+rand = "0.3"
